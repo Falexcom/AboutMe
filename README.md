@@ -7,7 +7,7 @@
 - Программирование на Phyton
 - Работа с Git и GitHub
 
-![Моё фото](C:\Users\Falexcom\Downloads\in0YXf2eIa4.jpg)
+[![Моё фото](https://i.postimg.cc/qM7VfQXr/in0-YXf2e-Ia4.jpg)](https://postimg.cc/qgWZys5D)
 
 ## Контакты
 [GitHub](https://github.com/falexcom)
